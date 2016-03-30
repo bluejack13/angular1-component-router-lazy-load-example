@@ -1,0 +1,11 @@
+{
+  "name": "angular-component-router-lazy-load-example",
+  "description": "",
+  "author": "Kenrick Satrio Sahputra",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/router": "^0.2.0",
+    "angular": "^1.5.3",
+    "requirejs": "^2.2.0"
+  }
+}
